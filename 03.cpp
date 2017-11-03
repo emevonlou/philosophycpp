@@ -1,9 +1,12 @@
 #include <iostream>
+#include <locale.h>
 using namespace std;
 
 
 int main()
 {
+  setlocale(LC_ALL, ""); 
+
    const char n = 'n';
    const char s = 's';
    const char k = 'k';
