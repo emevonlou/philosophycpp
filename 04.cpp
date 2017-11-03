@@ -1,8 +1,10 @@
 #include <iostream>
+#include <locale.h>
 using namespace std;
 
 int main()
 {
+    setlocale(LC_ALL, "");
     bool x;
 
     cout << "Responda as alternativas com 1 para sim e 0 para não: " << endl;
