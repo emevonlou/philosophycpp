@@ -15,7 +15,7 @@ int main()
     {
       if(n == n)
       {
-       cout << i++ << endl; 
+       cout << i   << endl; 
       }
       cout << "Friedrich Nietzsche" << endl;
       cout << "O medo é o pai da moralidade." << endl;
