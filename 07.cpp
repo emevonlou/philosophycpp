@@ -17,6 +17,8 @@ int main(int argc, char *argv[])
         cout << "Goethe!" << endl;
         cout << "Schiler!" << endl;
         cout << "Richard Wagner!" << endl;
+        cout << "Georges Bizet!" << endl;
+        cout << "Peter gast" << endl; 
         cout << "São Inspirações Nietzscheanas!" << endl;
 	}   
 	
