@@ -88,6 +88,24 @@ int main()
         cout << "Esse trecho foi retirado do livro Wagner em Bayreuth(p.25)." << endl;
     }
 
+    cout << "--------------------------------------------------------------------------------" << endl;
+    cout << "Ai, aproxima-se o tempo que o homem nao dara a luz a estrelas; ";
+    cout << "aproxima-se o tempo do mais desprezivel dos homens; ";
+    cout << "Do que ja nao pode desprezar a si mesmo!" << endl;
+    cout << "Digite o caracter correspondente ao livro que cita esse trecho: " << endl;
+    cin >> x;
+
+    if(x == z)
+    {
+        cout << "Yes! Talvez tu sejas o ultimo homem! Talvez! ";
+        cout << "Avante!";
+    }
+    else
+    {
+        cout << "Noopz. Esse trexo foi retirado do livro 'Assim falou zaratustra(p.28)'";
+    }
+    cout << endl << endl;
+
     system("pause");
 return 0;
 }
