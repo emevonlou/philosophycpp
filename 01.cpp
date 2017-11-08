@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    setlocale(LC_ALL, "");    
+    setlocale(LC_ALL, "portuguese-brazilian");    
     
     cout << "Quatro regras simples para a vida no esconderijo: " << endl << endl;
     cout << "Um: Nunca confie em um policial vestido de abrigo." << endl << endl;
