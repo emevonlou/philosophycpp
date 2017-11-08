@@ -105,6 +105,18 @@ int main()
         cout << "Noopz. Esse trexo foi retirado do livro 'Assim falou zaratustra(p.28)'";
     }
     cout << endl << endl;
+    cout << "Como soam bem a musica ruim e os maus motivos Quando marchamos sobre um inimigo" << endl;
+    cout << "Digite o caracter correspondente ao livro que cita esse trecho: " << endl;
+    cin >> x;
+
+    if(x == a)
+    {
+        cout << "YESS!" << endl;
+    }
+    else
+    {
+        cout << "Nao. Esse trexo foi retirado do livro 'Aurora'." << endl;
+    }
 
     system("pause");
 return 0;
