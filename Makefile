@@ -7,4 +7,5 @@ build:
 	g++ -c -o 06.o 06.cpp; g++ -o 06 06.o
 	g++ -c -o 07.o 07.cpp; g++ -o 07 07.o
 	g++ -c -o 08.o 08.cpp; g++ -o 08 08.o
+	g++ -c -o 09.o 09.cpp; g++ -o 09 09.o
 .PHONY:
