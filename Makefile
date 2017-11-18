@@ -9,4 +9,5 @@ build:
 	g++ -c -o 08.o 08.cpp; g++ -o 08 08.o
 	g++ -c -o 09.o 09.cpp; g++ -o 09 09.o
 	g++ -c -o 10.o 10.cpp; g++ -o 10 10.o
+	g++ -c -o 11.o 11.cpp; g++ -o 11 11.o
 .PHONY:
