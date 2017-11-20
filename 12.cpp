@@ -25,7 +25,7 @@ int main()
     int x = 3;
     for(x = 1; x <= 3; x++)
     {
-        cout << "Emanuelle Von lou" << endl;
+        cout << "Classicus scriptor, non proletarius." << endl;
     }
 
     return 0;
