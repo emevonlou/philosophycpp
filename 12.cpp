@@ -22,5 +22,11 @@ int main()
     cout << "pulsando eletricamente em alguma verdade que vez por outra" << endl;
     cout << "parece cantar." << endl;
 
+    int x = 3;
+    for(x = 1; x <= 3; x++)
+    {
+        cout << "Emanuelle Von lou" << endl;
+    }
+
     return 0;
 }
