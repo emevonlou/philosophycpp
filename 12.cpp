@@ -22,8 +22,8 @@ int main()
     cout << "pulsando eletricamente em alguma verdade que vez por outra" << endl;
     cout << "parece cantar." << endl;
 
-    int x = 3;
-    for(x = 1; x <= 3; x++)
+    int x = 15;
+    for(x = 1; x <= 15; x++)
     {
         cout << "Classicus scriptor, non proletarius." << endl;
     }
