@@ -27,6 +27,13 @@ int main()
     {
         cout << "Classicus scriptor, non proletarius." << endl;
     }
+    do
+    {
+        cout << "so ha uma maneira de encontrar a verdade de alguem: Sendo seu paradoxo." << endl;
+        x++;
+    }
+    while(x <= 20);
+
 
     return 0;
 }
