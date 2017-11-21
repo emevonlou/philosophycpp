@@ -29,10 +29,10 @@ int main()
     }
     do
     {
-        cout << "so ha uma maneira de encontrar a verdade de alguem: Sendo seu paradoxo." << endl;
+        cout << "So ha uma maneira de encontrar a verdade de alguem: Sendo seu paradoxo." << endl;
         x++;
     }
-    while(x <= 20);
+    while(x <= 16);
 
 
     return 0;
