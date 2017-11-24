@@ -30,6 +30,7 @@ int main()
     do
     {
         cout << "So ha uma maneira de encontrar a verdade de alguem: Sendo seu paradoxo." << endl;
+        cout << "Quando juntos somos justos com o que possuímos dentro de nós." << endl;
         x++;
     }
     while(x <= 16);
