@@ -11,4 +11,5 @@ build:
 	g++ -c -o 10.o 10.cpp; g++ -o 10 10.o
 	g++ -c -o 11.o 11.cpp; g++ -o 11 11.o
 	g++ -c -o 12.o 12.cpp; g++ -o 12 12.o
+	g++ -c -o t13.o t13.cpp; g++ -o t13 t13.o
 .PHONY:
