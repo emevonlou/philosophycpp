@@ -5,12 +5,11 @@ using namespace std;
 int main(int argc, char *argv[])
 {
     setlocale(LC_ALL, "");
-    int vetor[5];
-    
+
     
     for(int i = 0; i < 5; i++)
 	{
-        vetor[i] = i;
+    
         cout << "Heráclito!" << endl;
         cout << "Shopenhauer!" << endl;
         cout << "Lou Salomé!" << endl;

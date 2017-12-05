@@ -22,7 +22,7 @@ int main(int argc, char *argv[])
 
   if(true)
   {
-      for(y = 1; y <= 10; y++)
+      for(int i = 1; i <= 10; i++)
       {
       cout << "YESS...Uma ponte sob o abismo!" << endl;
       }
