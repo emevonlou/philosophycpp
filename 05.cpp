@@ -33,4 +33,6 @@ int main()
 			cout << "Filosofia Niet" + y[i] << " ";
 		}
 	}
+
+	return 0;
 }
