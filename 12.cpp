@@ -23,7 +23,7 @@ int main()
     cout << "parece cantar." << endl;
 
     int x = 15;
-    for(x = 1; x <= 15; x++)
+    for (x = 1; x <= 15; x++)
     {
         cout << "Classicus scriptor, non proletarius." << endl;
     }
@@ -32,9 +32,7 @@ int main()
         cout << "So ha uma maneira de encontrar a verdade de alguem: Sendo seu paradoxo." << endl;
         cout << "Quando juntos somos justos com o que possuímos dentro de nós." << endl;
         x++;
-    }
-    while(x <= 16);
-
+    } while (x <= 16);
 
     return 0;
 }
