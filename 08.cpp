@@ -28,8 +28,8 @@ int main()
     cout << "aprende a satisfacao!" << endl;
     cout << "Digite o caracter correspondente ao livro que cita esse trecho: " << endl;
     cin >> x;
-    
-    if(x == w)
+
+    if (x == w)
     {
         cout << "Excelente!Caminhemos para o proximo destino!" << endl;
     }
@@ -44,7 +44,7 @@ int main()
     cout << "Digite o caracter correspondente ao livro que cita esse trecho: " << endl;
     cin >> x;
 
-    if(x == a)
+    if (x == a)
     {
         cout << "Bravo!!Hoje nasceu uma aurora!" << endl;
     }
@@ -60,7 +60,7 @@ int main()
     cout << "Digite o caracter correspondente ao livro que cita esse trecho: " << endl;
     cin >> x;
 
-    if(x == z)
+    if (x == z)
     {
         cout << "YESS!Parabens! Es um dos que participa efetivamente do ";
         cout << "preambulo de zaratustra!" << endl;
@@ -79,7 +79,7 @@ int main()
     cout << "Digite o caracter correspondente ao livro que cita esse trecho: " << endl;
     cin >> x;
 
-    if(x == b)
+    if (x == b)
     {
         cout << "Em Bayreuth e em qualquer lugar voce estara certo!" << endl;
     }
@@ -95,7 +95,7 @@ int main()
     cout << "Digite o caracter correspondente ao livro que cita esse trecho: " << endl;
     cin >> x;
 
-    if(x == z)
+    if (x == z)
     {
         cout << "Yes! Talvez tu sejas o ultimo homem! Talvez! ";
         cout << "Avante!";
@@ -104,12 +104,13 @@ int main()
     {
         cout << "Noopz. Esse trexo foi retirado do livro 'Assim falou zaratustra(p.28)'";
     }
-    cout << endl << endl;
+    cout << endl
+         << endl;
     cout << "Como soam bem a musica ruim e os maus motivos Quando marchamos sobre um inimigo" << endl;
     cout << "Digite o caracter correspondente ao livro que cita esse trecho: " << endl;
     cin >> x;
 
-    if(x == a)
+    if (x == a)
     {
         cout << "YESS!" << endl;
     }
@@ -119,5 +120,5 @@ int main()
     }
 
     system("pause");
-return 0;
+    return 0;
 }
