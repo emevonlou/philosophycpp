@@ -8,31 +8,28 @@ int main(int argc, char *argv[])
 
   do
   {
-      cout << "O homem é uma ponte, atada entre o animal e o super homem..." << endl;
-      x++;
-      break;
-  }
-  while(x <= 20);
+    cout << "O homem é uma ponte, atada entre o animal e o super homem..." << endl;
+    x++;
+    break;
+  } while (x <= 20);
 
   cout << endl;
   cout << "--------------------------------------------------------------------------" << endl;
 
   cout << "Foi Nietzsche quem disse isso? digite (1)sim ou (0)não: " << endl;
-  cin >>  y;
+  cin >> y;
 
-  if(true)
+  if (true)
   {
-      for(int i = 1; i <= 10; i++)
-      {
+    for (int i = 1; i <= 10; i++)
+    {
       cout << "YESS...Uma ponte sob o abismo!" << endl;
-      }
+    }
   }
   else
   {
     cout << "Tente outra vez." << endl;
   }
-
-
 
   return 0;
 }
