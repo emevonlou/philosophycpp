@@ -11,7 +11,7 @@ int main()
     cout << "Nietzsche era antisemita?";
     cin >> x;
 
-    if(x == true)
+    if (x == true)
     {
         cout << "Nooopz! Nietzsche falava que o homem em sí era incompleto. ";
         cout << "Que carecia de superacao. Isso nada tinha haver com os Judeus ";
@@ -23,15 +23,16 @@ int main()
         cout << "que era absolutamente preconceituosa e desejava ";
         cout << "a todo custo, associar a imagem dele ao antisemitismo." << endl;
     }
-    cout << "--------------------------------------------------------" << endl << endl;
+    cout << "--------------------------------------------------------" << endl
+         << endl;
     cout << "Nietzsche acreditava em Deus?" << endl;
     cin >> x;
 
-    if(x == 1)
+    if (x == 1)
     {
         cout << "YESS!Nietzsche não acreditava no Deus criado pelo homem. ";
         cout << "O Deus que era constantemente usado para promover  ";
-        cout << "guerras, dor e martírios involuntários."; 
+        cout << "guerras, dor e martírios involuntários.";
     }
     else
     {
@@ -44,7 +45,7 @@ int main()
     cout << "Nietzsche era Niilista? " << endl;
     cin >> x;
 
-    if(x == 1)
+    if (x == 1)
     {
         cout << "Nietzsche se considerava Niilista quando partia do pressuposto ";
         cout << "que quando assumimos o nada, não estamos sozinhos.";
