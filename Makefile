@@ -26,3 +26,5 @@
 	g++ -Wall -c -o t13.o t13.cpp; g++ -o t13 t13.o
 14:
 	g++ -Wall -c -o 14.o 14.cpp; g++ -o 14 14.o
+15:
+	g++ -Wall -c -o 15.o 15.cpp; g++ -o 15 15.o
