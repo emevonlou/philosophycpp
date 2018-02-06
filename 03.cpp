@@ -11,6 +11,8 @@ int main()
   const char k = 'k';
   const char h = 'h';
   char x;
+  char pinkish[] = { 0x1b, '[', '3', '8',';','5',';','2','1','2','m',0 };
+  cout << pinkish;
 
   cout << "Para cada alternativa digite: " << endl;
   cout << "(n) para o rebelde Nietzsche." << endl;
