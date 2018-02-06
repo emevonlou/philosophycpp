@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
 
     if (w == s)
     {
-        cout << "sIM!Para o grande filósofo Emanuel Levinas, a ALTERIDADE,\n";
+        cout << "SIM!Para o grande filósofo Emanuel Levinas, a ALTERIDADE,\n";
         cout << "o comeco do filosofar, o fundamento da razao, o sentido\n";
         cout << "do humano eh a possibilidade de realização da justica e paz!!\n";
     }
