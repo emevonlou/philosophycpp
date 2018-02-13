@@ -7,6 +7,8 @@ using namespace std;
 
 int main()
 {
+	char eme[] = {0x1b, '[', '1', ';', '3', '5', 'm', 0};
+	cout << eme;
 	srand(time(NULL));
 	int x, y[20];
 	x = rand() % 10;
@@ -30,7 +32,7 @@ int main()
 		for (int j = 0; j < 10; j++)
 		{
 			y[i] = rand() % 10;
-			cout << "Filosofia Niet" + y[i] << " ";
+			cout << "Filosofia Niet" << y[i] << " ";
 		}
 	}
 
