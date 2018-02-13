@@ -7,6 +7,9 @@ int main()
 {
   setlocale(LC_ALL, "");
 
+  char eme[] = {0x1b, '[', '1', ';', '3', '4', 'm', 0};
+  cout << eme;
+
   int i = 6;
   const char n = 'n';
 
