@@ -6,6 +6,9 @@ using namespace std;
 int main()
 {
     setlocale(LC_ALL, "");
+    char eme[] = {0x1b, '[', '1', ';', '3', '3', 'm', 0};
+    cout << eme;
+
     int x;
 
     cout << "Você acredita que é capaz de amar o destino que escolheu?" << endl;
