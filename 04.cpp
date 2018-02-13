@@ -5,6 +5,8 @@ using namespace std;
 int main()
 {
     setlocale(LC_ALL, "");
+    char eme[] = {0x1b, '[', '1', ';', '3', '7', 'm', 0};
+    cout << eme;
     bool x;
 
     cout << "Responda as alternativas com 1 para sim e 0 para não: " << endl;
