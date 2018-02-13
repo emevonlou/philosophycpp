@@ -6,6 +6,8 @@ using namespace std;
 int main()
 {
     setlocale(LC_ALL, "portuguese-brazilian");
+    char eme[] = {0x1b, '[', '1', ';', '3', '5', 'm', 0};
+    cout << eme;
 
     cout << "Quatro regras simples para a vida no esconderijo: " << endl
          << endl;
