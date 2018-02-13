@@ -15,7 +15,7 @@ int main()
 
   for (i = 0; i <= 6; i++)
   {
-    if (n == n)
+    if (n)
     {
       cout << i << endl;
     }
