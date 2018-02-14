@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
+    char eme[] = {0x1b, '[', '1', ';', '3', '6', 'm', 0};
+    cout << eme;
     setlocale(LC_ALL, "");
 
     cout << "Na lib da minha vida,Vinculo a variante da biblioteca ";
