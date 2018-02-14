@@ -4,6 +4,8 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
+    char eme[] = {0x1b, '[', '1', ';', '3', '7', 'm', 0};
+    cout << eme;
     const char s = 's';
     const char n = 'n';
     char w;
