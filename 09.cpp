@@ -3,6 +3,8 @@ using namespace std;
 
 int main()
 {
+    char eme[] = {0x1b, '[', '1', ';', '3', '3', 'm', 0};
+    cout << eme;
     int x = 0;
     int n;
     cout << "Que nota voce atribuiria ao filosofo Nietzsche(de 1 a 10)? " << endl;

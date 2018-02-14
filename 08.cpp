@@ -6,6 +6,8 @@ using namespace std;
 int main()
 {
     setlocale(LC_ALL, " ");
+    char eme[] = {0x1b, '[', '1', ';', '3', '6', 'm', 0};
+    cout << eme;
 
     const char a = 'a';
     const char w = 'w';
