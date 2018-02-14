@@ -3,6 +3,8 @@ using namespace std;
 
 int main()
 {
+    char eme[] = {0x1b, '[', '1', ';', '3', '2', 'm', 0};
+    cout << eme;
     int x;
     cout << "Summum bonum ( 'sumo bem' ou 'bem maior, em latim) eh uma expressao latina usada na filosofia - particularmente, em Aristoteles ";
     cout << ",na filosofia medieval e na filosofia de Immanuel Kant - para descrever o bem maior que o ser humano deve buscar." << endl
