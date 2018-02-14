@@ -3,6 +3,8 @@ using namespace std;
 
 int main()
 {
+    char eme[] = {0x1b, '[', '1', ';', '3', '5', 'm', 0};
+    cout << eme;
     int x;
 
     cout << "Qual o dia em que nietzsche nasceu?";
